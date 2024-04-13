@@ -3,4 +3,4 @@
 https://wvdh.github.io/EmojiFighter/
 <br>
 <br>
-![alt text](EmojiFighter.png)
+![EmojiFighter](EmojiFighter.png)
