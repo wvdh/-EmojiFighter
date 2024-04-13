@@ -1,1 +1,1 @@
-# -EmojiFighter
+# EmojiFighter
